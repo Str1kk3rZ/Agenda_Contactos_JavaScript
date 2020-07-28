@@ -1,0 +1,17 @@
+[
+    {
+        nombre: 'Andres Perez',
+        telefono: '5677428',
+        email: 'Andres@gmail.com'
+    },
+    {
+        nombre: 'Alejandro Perez',
+        telefono: '1234567',
+        email: 'Alejo@gmail.com'
+    },
+    {
+        nombre: 'Sergio Gomez',
+        telefono: '7894561',
+        email: 'Sergio@gmail.com'
+    }
+]
